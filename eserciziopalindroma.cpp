@@ -32,10 +32,10 @@ bool palindroma(string parola)
         
         if (palindroma(parola))
         {
-            cout << "La parola è palindroma" << endl;
+            cout << "La parola in questione è palindroma" << endl;
         }
         else
         {
-            cout << "La parola non è palindroma" << endl;
+            cout << "La parola in questione non è palindroma" << endl;
         }
     }
