@@ -20,6 +20,7 @@ bool palindroma(string parola)
         else
         {
             return false;
+            break;
         } 
         
     }  cout << parola << endl;
